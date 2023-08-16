@@ -1,6 +1,6 @@
 # MA_Thesis
 
-## stance-stances
+## dataset-stances
 The first data-stances file is the original dataframe used on the code to extract the features.
 
 ## stance-final-dataf-final
