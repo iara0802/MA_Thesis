@@ -8,3 +8,6 @@ This dataframe is the one used to train the models since the N-grams features ar
 
 ## emotions-lexicon
 This file contains all the 8 emotions used for the Emotions features extraction.
+
+## iara-s-thesis
+This file is a jupyter notebook that contains the code used for the thesis.
